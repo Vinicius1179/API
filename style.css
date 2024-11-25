@@ -60,5 +60,6 @@ header p {
 }
 
 .botao:hover {
-    background-color: #45a049;
+    background-color: #409144;
+    transform: scale(1.2);
 }
